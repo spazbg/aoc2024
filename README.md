@@ -4,7 +4,7 @@ This repository contains my solutions for Advent of Code 2024 challenges impleme
 
 ## Project Structure
 
-Each day's challenge is in its own directory containing:
+Each day's challenge is in its own directory (e.g., `02.12` for December 2nd), containing:
 - `part1/` - Solution for part 1
 - `part2/` - Solution for part 2
 - `input.txt` - Challenge input
@@ -20,4 +20,4 @@ go run ./cmd
 ```
 
 ## Me as a Go Dev
-![Go dev meme](assets/go-dev-meme.jpg)
+![Go dev meme](https://github.com/spazbg/aoc2024/blob/main/assets/go-dev-meme.jpg)
