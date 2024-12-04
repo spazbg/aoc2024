@@ -4,7 +4,7 @@ This repository contains my solutions for Advent of Code 2024 challenges impleme
 
 ## Project Structure
 
-Each day's challenge is in its own directory containing:
+Each day's challenge is in its own directory, containing:
 - `part1/` - Solution for part 1
 - `part2/` - Solution for part 2
 - `input.txt` - Challenge input
