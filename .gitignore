@@ -1,0 +1,29 @@
+# IDE specific files
+.idea/
+.vscode/
+
+# Go specific
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Debug files
+debug/
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories (remove if you're committing vendor/)
+/vendor/
+
+# Go workspace file
+go.work
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
